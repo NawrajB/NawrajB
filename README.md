@@ -60,7 +60,7 @@ Solving complex problems from the ground up.
 
 
   <a href="https://www.linkedin.com/in/nawrajbudhathoki/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtsQVW5%2FaSw2fyh4mfRCVRQ%3D%3D/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
