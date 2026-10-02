@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 <img align="right" width="210" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif" />
 
 ### 👨🏻‍💻 About Me
