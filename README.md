@@ -1,12 +1,13 @@
+---
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Nawraj%20Budhathoki&fontSize=45&desc=Code%20•%20Commit%20•%20Repeat&descSize=20&descAlignY=62&fontAlignY=35&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F2FE,100:4FACFE&height=45&section=header&text=Nawraj%20Budhathoki&fontSize=30&desc=Code%20•%20Commit%20•%20Repeat&descSize=15&descAlignY=80&fontAlignY=40&animation=fadeIn" alt="header"/>
 </p>
 
 <h2 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, Welcome to my profile!
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Me Nawraj
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Passionate+Computer+Science+Major+Student;Tech+Enthusiast;Software+Design+%7C+Python+%7C+Data+Analysis+%7C+AI/ML;Always+Exploring+How+Systems+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=A+Computer+Science+Major;Software+Arc+%7C+Python+%7C+AI/ML;" />
 </p>
 
 ---
@@ -15,10 +16,9 @@
 
 ### 👨🏻‍💻 About Me
 
-I am a **Computer Science major student** passionate in  
-**Software designing, object-oriented programming and data-driven problem-solving.**
+I am a *Computer Science Student* passionate in  *Software Arc Designing, Problem-Solving.*
 
-My core interest lies in building software that is not only functional, but scalable, performant, and well-architected.
+Core interest lies in building software that is not only functional, but scalable, performant, and well-architected.
 Whether I am optimizing C++ logic for speed or leveraging Python to extract actionable insights from raw data, I enjoy
 Solving complex problems from the ground up.
 
@@ -26,9 +26,10 @@ Solving complex problems from the ground up.
 
 ### 🧠 Field of Interest
 
+⁠
 - 💻 Software Design & Architecture 
--  ⌗  Data Science & Analytics 
--  Performance-Driven Programming
+-   ⌗   Data Science & Analytics 
+- 💯 Performance-Driven Programming
 - 🤖 Artificial Intelligence & Machine learning  
 - 📊 Manipulation and Exploration of Data  
 
@@ -39,15 +40,6 @@ Solving complex problems from the ground up.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js" />
 </p>
-
----
-
-### 📈 Currently Working On
-
-- 🚀 **Preparing for Software Engineering & Data Science Courses**
-- 🔎 **Learning languages like C++, Javascript, Python**
-- ⚙️ **Building performance-focused C++, python projects**
-- 🧠 Preparing foundations for **AI & Deep Learning**
 
 ---
 
