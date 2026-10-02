@@ -6,11 +6,14 @@
 <h2 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Me Nawraj
 </h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=A+Computer+Science+Major;Software+Arc+%7C+Python+%7C+AI/ML;" />
 </p>
 
+
 ---
+
 <img align="right" width="210" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif" />
 
 ### 👨🏻‍💻 About Me
